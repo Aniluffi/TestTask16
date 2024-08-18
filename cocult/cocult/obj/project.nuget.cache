@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "z0PDo2Azzd4PNL388RUnvMXyprVcyl4ffaDgLzCxeRE4EYK3s9jyD+TzeNT5InUoSX1IxqXAwoFR7xNthWkJZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aleks\\Desktop\\Практика\\cocult\\cocult\\cocult.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleks\\.nuget\\packages\\messagepack\\2.5.172\\messagepack.2.5.172.nupkg.sha512",
+    "C:\\Users\\aleks\\.nuget\\packages\\messagepack.annotations\\2.5.172\\messagepack.annotations.2.5.172.nupkg.sha512",
+    "C:\\Users\\aleks\\.nuget\\packages\\messagepack.aspnetcoremvcformatter\\2.5.172\\messagepack.aspnetcoremvcformatter.2.5.172.nupkg.sha512",
+    "C:\\Users\\aleks\\.nuget\\packages\\microsoft.net.stringtools\\17.6.3\\microsoft.net.stringtools.17.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
